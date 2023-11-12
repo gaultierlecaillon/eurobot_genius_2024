@@ -12,7 +12,7 @@
 </div>
 
 ## Requirements
-ChatGPT account: https://chat.openai.com/
+ChatGPT Plus account: https://chat.openai.com/
 
 ## Getting Started
 Frenchy Version: https://chat.openai.com/g/g-gTK7pwdWn-eurobot-genie-fr
